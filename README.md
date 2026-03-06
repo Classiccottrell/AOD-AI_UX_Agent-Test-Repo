@@ -2,11 +2,16 @@
 ---- Repo Read Me Document
 
 
-#Im a plan text Kind of guy
-##there will be some formatting but not often. 
+# I'm a Plain Text Kind of Guy
+There will be some formatting, but not often.
 
+## Repo Goal
+**Foundational AOD Mineral UX Agents**
 
-#Repo Goal
-## Foundational AOD Mineral UX Agents
+A suite of agents customizable to your product needs.
 
-###Tool-Box Buckets
+### Tool-Box Buckets
+* **UX Expert**
+* **UX Content Writer**
+* **UX Research**
+* **Wireframe**
