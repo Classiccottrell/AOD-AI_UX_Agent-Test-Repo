@@ -1,2 +1,12 @@
 # AOD-AI_UX_Agent-Test-Repo
-Here we will test all the agent and refine them to product a final set of agents we can give to the broader AOD UX teams
+---- Repo Read Me Document
+
+
+#Im a plan text Kind of guy
+##there will be some formatting but not often. 
+
+
+#Repo Goal
+## Foundational AOD Mineral UX Agents
+
+###Tool-Box Buckets
