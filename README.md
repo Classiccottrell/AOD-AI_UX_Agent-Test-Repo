@@ -1,9 +1,9 @@
 # AOD-AI_UX_Agent-Test-Repo
 ---- Repo Read Me Document
-
-
-# I'm a Plain Text Kind of Guy
+### I'm a Plain Text Kind of Guy
 There will be some formatting, but not often.
+
+---
 
 ## Repo Goal
 **Foundational AOD Mineral UX Agents**
